@@ -1,0 +1,11 @@
+pandas
+pyarrow
+joblib
+dask[complete]
+xarray
+altair
+gsw
+jupyterlab
+ipython
+memory_profiler
+line_profiler

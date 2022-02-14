@@ -1,0 +1,16 @@
+pandas==1.4.0
+openpyxl
+pyarrow
+joblib==1.1.0
+dask[complete]==2022.1.1
+xarray[complete]
+numexpr
+numba
+altair
+gsw==3.4.0
+jupyterlab==3.2.8
+ipython
+memory_profiler==0.60.0
+pyarrow
+memory_profiler
+line_profiler
