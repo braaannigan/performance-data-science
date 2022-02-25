@@ -1,1 +1,5 @@
 data
+*.so
+checkpoint.ipynb
+*checkpoint.ipynb
+*.ipynb_checkpoints*

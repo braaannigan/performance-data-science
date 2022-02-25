@@ -15,5 +15,5 @@ docker run -it --rm -p 8501:8501  -v $(pwd):/usr/src/app perf-data-science:lates
 fi
 
 if [ "${TARGET}" == "lab" ]; then
-docker run -it --rm -p 8888:8888  -v $(pwd):/usr/src/app perf-data-science:latest /bin/bash
+docker run -it --rm -p 8889:8888  -v $(pwd):/usr/src/app perf-data-science:latest /bin/bash
 fi

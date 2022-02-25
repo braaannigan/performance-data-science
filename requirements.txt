@@ -3,7 +3,9 @@ openpyxl
 pyarrow
 joblib==1.1.0
 dask[complete]==2022.1.1
-xarray[complete]
+xarray
+jax
+jaxlib
 numexpr
 numba
 altair
