@@ -6,7 +6,7 @@ import numpy as np
 notebookPath = Path("arrays/numpyParallelSimple.ipynb")
 
 
-@testbook(notebookPath.as_posix(), execute=True)
+@testbook(notebookPath.as_posix(), execute=False)
 def test_func(tb):
     generateData = tb.get("generateData")
     xyLength = 3

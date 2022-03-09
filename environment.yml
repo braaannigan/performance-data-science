@@ -1,0 +1,21 @@
+ name: workshop-env
+ channels:
+   - conda-forge
+ dependencies:
+   - python=3.9.1
+   - ipython=8.0.1
+   - jupyterlab
+   - ipykernel
+   - line_profiler
+   - pyinstrument
+   - pytest
+   - xarray
+   - netcdf4
+   - numexpr
+   - numba
+   - joblib
+   - dask
+   - altair
+   - pythran
+   - pyarrow
+   - testbook
