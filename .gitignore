@@ -3,3 +3,4 @@ data
 checkpoint.ipynb
 *checkpoint.ipynb
 *.ipynb_checkpoints*
+arrays/__pycache__/
