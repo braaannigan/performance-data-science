@@ -4,3 +4,4 @@ checkpoint.ipynb
 *checkpoint.ipynb
 *.ipynb_checkpoints*
 arrays/__pycache__/
+perf-env
