@@ -2,7 +2,7 @@
 
 In this repository you can find notebooks that demonstrate tools for high performance data science in python.
 
-To learn more about these methods for scaling your analysis [sign up to my mailing list](http://eepurl.com/hWH8Gr){:target="_blank"}
+To learn more about these methods for scaling your analysis [sign up to my mailing list](http://eepurl.com/hWH8Gr)
 
 
 ## Try them for yourself
